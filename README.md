@@ -1,2 +1,4 @@
 # Trabalho-Final-GCC-108---Teoria-da-Computa-o
-Trabalho final de teoria da computação feito pelos alunos Arlan e Arthur
+Trabalho final de teoria da computação feito pelos alunos 
+Alunos: Arlan da Silva Trindade Matricula: 201920353
+Arthur Eduardo Silva Matricula: 201920336
